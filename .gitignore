@@ -223,3 +223,6 @@ MUJOCO_LOG.TXT
 examples/MultiRobot/*
 
 AGENTS.md
+
+robocasa-gr1-tabletop-tasks
+robosuite
